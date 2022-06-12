@@ -3666,6 +3666,9 @@ h1.page-title + .tag-cloud-list {
 #nav .site-page:not(.child):hover:after {
   width: 100%;
 }
+#pagination {
+  width: 100%;
+}
 #pagination .pagination {
   margin-top: 20px;
   text-align: center;
