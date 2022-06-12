@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>网络安全书籍推荐</title>
+      <link href="/2022/06/12/%E4%B9%A6%E7%B1%8D%E6%8E%A8%E8%8D%90/"/>
+      <url>/2022/06/12/%E4%B9%A6%E7%B1%8D%E6%8E%A8%E8%8D%90/</url>
+      
+        <content type="html"><![CDATA[<h2 id="一、计算机基础"><a href="#一、计算机基础" class="headerlink" title="一、计算机基础"></a>一、计算机基础</h2><ul><li><p>《深入理解计算机系统》</p></li><li><p>《鸟哥的 Linux 私房菜》</p></li><li><p>《TCP&#x2F;IP 详解（卷 1：协议）》</p></li><li><p>《HTTP 权威指南》</p></li><li><p>《Wireshark 数据包分析实战》</p></li><li><p>《Wireshark 网络分析的艺术》</p></li><li><p>《Wireshark 网络分析就这么简单》</p></li></ul><h2 id="二、网络渗透"><a href="#二、网络渗透" class="headerlink" title="二、网络渗透"></a>二、网络渗透</h2><ul><li><p>《白帽子讲 Web 安全》</p></li><li><p>《Web 安全深度剖析》</p></li><li><p>《SQL 注入天书》</p></li><li><p>《Web 前端黑客技术揭秘》</p></li><li><p>《黑客攻防技术宝典：Web 实战篇》</p></li><li><p>《metasploit 渗透测试指南》</p></li><li><p>《黑客大曝光》</p></li></ul><h2 id="三、逆向分析"><a href="#三、逆向分析" class="headerlink" title="三、逆向分析"></a>三、逆向分析</h2><ul><li><p>《加密与解密》</p></li><li><p>《IDA 权威指南》</p></li><li><p>《C++ 反汇编与逆向分析技术揭秘》</p></li><li><p>《Windows PE 权威指南》</p></li><li><p>《Android 软件安全与逆向分析》</p></li><li><p>《iOS 应用逆向工程（第 2 版）》</p></li><li><p>《逆向工程权威指南》</p></li><li><p>《恶意代码分析艺术》</p></li><li><p>《软件调试》</p></li></ul><h2 id="四、漏洞攻击"><a href="#四、漏洞攻击" class="headerlink" title="四、漏洞攻击"></a>四、漏洞攻击</h2><ul><li><p>《漏洞战争》</p></li><li><p>《0day 安全：软件漏洞分析技术（第 2 版）》</p></li><li><p>《CTF 竞赛权威指南》</p></li><li><p>《黑客之道漏洞发掘的艺术》</p></li></ul><h2 id="五、系统内核安全"><a href="#五、系统内核安全" class="headerlink" title="五、系统内核安全"></a>五、系统内核安全</h2><ul><li><p>《Windows 内核原理与实现》</p></li><li><p>《Linux 内核设计与实现》</p></li><li><p>《Rootkits——Windows 内核的安全防护》</p></li><li><p>《天书夜读：从汇编语言到 Windows 内核编程》</p></li><li><p>《寒江独钓：Windows 内核安全编程》</p></li></ul><h2 id="六、Web-安全-x2F-渗透测试推荐书单-偏实战"><a href="#六、Web-安全-x2F-渗透测试推荐书单-偏实战" class="headerlink" title="六、Web 安全 &#x2F; 渗透测试推荐书单 (偏实战)"></a>六、Web 安全 &#x2F; 渗透测试推荐书单 (偏实战)</h2><ul><li>《白帽子讲 Web 安全》</li><li>《web 安全攻防》</li><li>《内网安全攻防 渗透测试实战指南》</li><li>《Web 安全深度剖析》</li><li>《Metaspolit 渗透测试魔鬼训练营》</li><li>《Web 前端安全揭秘》</li><li>《Web 渗透测试使用 Kali Linux》</li><li>《黑客攻防技术宝典 Web 实战篇》</li><li>《BurpSuite 实战指南》</li><li>《SQL 注入攻击与防御》</li><li>《XSS 跨站脚本攻击剖析与防御》</li><li>《互联网企业安全高级指南》</li></ul><h2 id="七、机器学习与网络安全"><a href="#七、机器学习与网络安全" class="headerlink" title="七、机器学习与网络安全"></a>七、机器学习与网络安全</h2><ul><li>Web 安全深度学习实战 (刘焱)</li><li>Web 安全机器学习入门 (刘焱)</li><li>Web 安全之强化学习与 GAN (刘焱)</li><li>机器学习实战 (Peter Harrington)</li><li>神经网络与深度学习 (吴岸城)</li></ul><h2 id="八、杂项"><a href="#八、杂项" class="headerlink" title="八、杂项"></a>八、杂项</h2><ul><li>WIndows Powershell 应用手册</li><li>黑客命令行攻防实战详解</li><li>Shellcoder 编程揭秘</li><li>高度安全环境下的渗透测试</li><li>Windows 黑客技术揭秘与攻防</li><li>黑客调式技术揭密</li><li>黑客反汇编揭秘（第二版）</li><li>黑客之道：漏洞发掘的艺术</li><li>木马技术揭秘与防御</li><li>Coding for Penetrating .Penetration</li><li>Exploit 编写系列教程</li><li>Exploit 应用开发中文手册</li><li>Exploit-Exercises</li><li>Q 版缓冲区溢出教程</li><li>精通黑客编程</li><li>杀不死的秘密 - 反汇编揭露黑客免杀变种技术</li><li>挖 0day・metasploitguide</li><li>Backtrack5 从入门到精通</li><li>Linux C 编程实战</li><li>linux 黑客大曝光</li><li>常用黑客攻防技术大全</li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2022/05/31/hello-world/"/>
       <url>/2022/05/31/hello-world/</url>
