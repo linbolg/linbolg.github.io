@@ -51,7 +51,7 @@
 /* 修改灯笼的字体 */
 
 .d-box .d1::after {
-    content: '牛年大吉';
+    content: '虎年大吉';
 }
 
 .d-box1 .d1::after {
@@ -231,7 +231,7 @@
     right: 51px;
     width: 75px;
     border-radius: 57px/89px;
-    background: url(https://bu.dusays.com/2021/02/03/7e1a77cf800cf.png) no-repeat;
+    background: url(https://lin-imgaes-1303089178.cos.ap-guangzhou.myqcloud.com/20220619115502.png) no-repeat;
     background-position: center;
     background-size: 92px auto;
 }
