@@ -376,8 +376,12 @@
     
     <category term="spa全身按摩" scheme="https://www.1937cn.top/categories/spa%E5%85%A8%E8%BA%AB%E6%8C%89%E6%91%A9/"/>
     
+    <category term="按摩" scheme="https://www.1937cn.top/categories/spa%E5%85%A8%E8%BA%AB%E6%8C%89%E6%91%A9/%E6%8C%89%E6%91%A9/"/>
     
-    <category term="spa全身按摩" scheme="https://www.1937cn.top/tags/spa%E5%85%A8%E8%BA%AB%E6%8C%89%E6%91%A9/"/>
+    <category term="养生" scheme="https://www.1937cn.top/categories/spa%E5%85%A8%E8%BA%AB%E6%8C%89%E6%91%A9/%E6%8C%89%E6%91%A9/%E5%85%BB%E7%94%9F/"/>
+    
+    
+    <category term="按摩" scheme="https://www.1937cn.top/tags/%E6%8C%89%E6%91%A9/"/>
     
   </entry>
   
