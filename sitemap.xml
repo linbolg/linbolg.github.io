@@ -182,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://www.1937cn.top/life/movies/index.html</loc>
+    <loc>https://www.1937cn.top/tags/index.html</loc>
     
     <lastmod>2023-05-18</lastmod>
     
@@ -200,7 +200,7 @@
   </url>
   
   <url>
-    <loc>https://www.1937cn.top/site/census/index.html</loc>
+    <loc>https://www.1937cn.top/life/movies/index.html</loc>
     
     <lastmod>2023-05-18</lastmod>
     
@@ -218,7 +218,7 @@
   </url>
   
   <url>
-    <loc>https://www.1937cn.top/site/time/index.html</loc>
+    <loc>https://www.1937cn.top/site/census/index.html</loc>
     
     <lastmod>2023-05-18</lastmod>
     
@@ -227,7 +227,7 @@
   </url>
   
   <url>
-    <loc>https://www.1937cn.top/tags/index.html</loc>
+    <loc>https://www.1937cn.top/site/time/index.html</loc>
     
     <lastmod>2023-05-18</lastmod>
     
@@ -254,7 +254,7 @@
   </url>
   
   <url>
-    <loc>https://www.1937cn.top/box/gallery/index.html</loc>
+    <loc>https://www.1937cn.top/box/animation/index.html</loc>
     
     <lastmod>2023-05-18</lastmod>
     
@@ -272,7 +272,7 @@
   </url>
   
   <url>
-    <loc>https://www.1937cn.top/box/animation/index.html</loc>
+    <loc>https://www.1937cn.top/box/gallery/index.html</loc>
     
     <lastmod>2023-05-18</lastmod>
     
@@ -315,20 +315,6 @@
   </url>
   
   <url>
-    <loc>https://www.1937cn.top/tags/%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2023-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.1937cn.top/tags/%E5%AE%89%E5%85%A8%E6%B3%95/</loc>
-    <lastmod>2023-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.1937cn.top/tags/Markdown/</loc>
     <lastmod>2023-06-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -343,7 +329,21 @@
   </url>
   
   <url>
+    <loc>https://www.1937cn.top/tags/%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2023-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.1937cn.top/tags/%E8%80%83%E8%AF%81/</loc>
+    <lastmod>2023-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.1937cn.top/tags/%E5%AE%89%E5%85%A8%E6%B3%95/</loc>
     <lastmod>2023-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -359,13 +359,6 @@
   </url>
   
   <url>
-    <loc>https://www.1937cn.top/categories/%E5%AE%89%E5%85%A8%E6%B3%95/</loc>
-    <lastmod>2023-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.1937cn.top/categories/%E6%BC%94%E7%A4%BA/</loc>
     <lastmod>2023-06-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -374,6 +367,13 @@
   
   <url>
     <loc>https://www.1937cn.top/categories/%E8%80%83%E8%AF%81/</loc>
+    <lastmod>2023-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.1937cn.top/categories/%E5%AE%89%E5%85%A8%E6%B3%95/</loc>
     <lastmod>2023-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
