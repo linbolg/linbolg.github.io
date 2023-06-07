@@ -200,15 +200,6 @@
   </url>
   
   <url>
-    <loc>https://www.1937cn.top/life/movies/index.html</loc>
-    
-    <lastmod>2023-05-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.1937cn.top/personal/bb/index.html</loc>
     
     <lastmod>2023-05-18</lastmod>
@@ -227,7 +218,7 @@
   </url>
   
   <url>
-    <loc>https://www.1937cn.top/site/time/index.html</loc>
+    <loc>https://www.1937cn.top/life/movies/index.html</loc>
     
     <lastmod>2023-05-18</lastmod>
     
@@ -245,7 +236,7 @@
   </url>
   
   <url>
-    <loc>https://www.1937cn.top/categories/index.html</loc>
+    <loc>https://www.1937cn.top/site/time/index.html</loc>
     
     <lastmod>2023-05-18</lastmod>
     
@@ -254,7 +245,7 @@
   </url>
   
   <url>
-    <loc>https://www.1937cn.top/box/animation/index.html</loc>
+    <loc>https://www.1937cn.top/categories/index.html</loc>
     
     <lastmod>2023-05-18</lastmod>
     
@@ -273,6 +264,15 @@
   
   <url>
     <loc>https://www.1937cn.top/box/gallery/index.html</loc>
+    
+    <lastmod>2023-05-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.1937cn.top/box/animation/index.html</loc>
     
     <lastmod>2023-05-18</lastmod>
     
