@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.1937cn.top/personal/about/index.html</loc>
+    <loc>https://www.1937cn.top/personal/love/index.html</loc>
     
-    <lastmod>2023-07-14</lastmod>
+    <lastmod>2023-07-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.1937cn.top/personal/love/index.html</loc>
+    <loc>https://www.1937cn.top/personal/about/index.html</loc>
     
-    <lastmod>2023-06-06</lastmod>
+    <lastmod>2023-07-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -301,7 +301,7 @@
 
   <url>
     <loc>https://www.1937cn.top/</loc>
-    <lastmod>2023-07-14</lastmod>
+    <lastmod>2023-07-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -309,42 +309,42 @@
   
   <url>
     <loc>https://www.1937cn.top/tags/python/</loc>
-    <lastmod>2023-07-14</lastmod>
+    <lastmod>2023-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.1937cn.top/tags/%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2023-07-14</lastmod>
+    <lastmod>2023-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.1937cn.top/tags/Markdown/</loc>
-    <lastmod>2023-07-14</lastmod>
+    <lastmod>2023-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.1937cn.top/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
-    <lastmod>2023-07-14</lastmod>
+    <lastmod>2023-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.1937cn.top/tags/%E8%80%83%E8%AF%81/</loc>
-    <lastmod>2023-07-14</lastmod>
+    <lastmod>2023-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.1937cn.top/tags/%E5%AE%89%E5%85%A8%E6%B3%95/</loc>
-    <lastmod>2023-07-14</lastmod>
+    <lastmod>2023-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -353,28 +353,28 @@
   
   <url>
     <loc>https://www.1937cn.top/categories/python/</loc>
-    <lastmod>2023-07-14</lastmod>
+    <lastmod>2023-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.1937cn.top/categories/%E6%BC%94%E7%A4%BA/</loc>
-    <lastmod>2023-07-14</lastmod>
+    <lastmod>2023-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.1937cn.top/categories/%E8%80%83%E8%AF%81/</loc>
-    <lastmod>2023-07-14</lastmod>
+    <lastmod>2023-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.1937cn.top/categories/%E5%AE%89%E5%85%A8%E6%B3%95/</loc>
-    <lastmod>2023-07-14</lastmod>
+    <lastmod>2023-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
