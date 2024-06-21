@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>永不消逝的电波🥝</title>
+  <title>小菜·永不消逝的电波🥝</title>
   
   
-  <link href="https://www.1937cn.top/atom.xml" rel="self"/>
+  <link href="http://www.1937cnt.top/atom.xml" rel="self"/>
   
-  <link href="https://www.1937cn.top/"/>
+  <link href="http://www.1937cnt.top/"/>
   <updated>2023-05-18T01:25:46.733Z</updated>
-  <id>https://www.1937cn.top/</id>
+  <id>http://www.1937cnt.top/</id>
   
   <author>
-    <name>永不消逝的电波🥝</name>
+    <name>小菜·永不消逝的电波🥝</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>信息通信网络运行管理员</title>
-    <link href="https://www.1937cn.top/posts/6cac62f5.html"/>
-    <id>https://www.1937cn.top/posts/6cac62f5.html</id>
+    <link href="http://www.1937cnt.top/posts/6cac62f5.html"/>
+    <id>http://www.1937cnt.top/posts/6cac62f5.html</id>
     <published>2023-05-18T01:25:44.822Z</published>
     <updated>2023-05-18T01:25:46.733Z</updated>
     
@@ -35,17 +35,17 @@
     
     
     
-    <category term="考证" scheme="https://www.1937cn.top/categories/%E8%80%83%E8%AF%81/"/>
+    <category term="考证" scheme="http://www.1937cnt.top/categories/%E8%80%83%E8%AF%81/"/>
     
     
-    <category term="考证" scheme="https://www.1937cn.top/tags/%E8%80%83%E8%AF%81/"/>
+    <category term="考证" scheme="http://www.1937cnt.top/tags/%E8%80%83%E8%AF%81/"/>
     
   </entry>
   
   <entry>
     <title>12.字符串和正则表达式</title>
-    <link href="https://www.1937cn.top/posts/affb275b.html"/>
-    <id>https://www.1937cn.top/posts/affb275b.html</id>
+    <link href="http://www.1937cnt.top/posts/affb275b.html"/>
+    <id>http://www.1937cnt.top/posts/affb275b.html</id>
     <published>2023-05-18T01:25:44.793Z</published>
     <updated>2023-05-18T01:25:46.725Z</updated>
     
@@ -61,17 +61,17 @@
     
     
     
-    <category term="python" scheme="https://www.1937cn.top/categories/python/"/>
+    <category term="python" scheme="http://www.1937cnt.top/categories/python/"/>
     
     
-    <category term="python" scheme="https://www.1937cn.top/tags/python/"/>
+    <category term="python" scheme="http://www.1937cnt.top/tags/python/"/>
     
   </entry>
   
   <entry>
     <title>11.文件和异常</title>
-    <link href="https://www.1937cn.top/posts/e81e7b1a.html"/>
-    <id>https://www.1937cn.top/posts/e81e7b1a.html</id>
+    <link href="http://www.1937cnt.top/posts/e81e7b1a.html"/>
+    <id>http://www.1937cnt.top/posts/e81e7b1a.html</id>
     <published>2023-05-18T01:25:44.787Z</published>
     <updated>2023-05-18T01:25:46.723Z</updated>
     
@@ -86,17 +86,17 @@
     
     
     
-    <category term="python" scheme="https://www.1937cn.top/categories/python/"/>
+    <category term="python" scheme="http://www.1937cnt.top/categories/python/"/>
     
     
-    <category term="python" scheme="https://www.1937cn.top/tags/python/"/>
+    <category term="python" scheme="http://www.1937cnt.top/tags/python/"/>
     
   </entry>
   
   <entry>
     <title>10.图形用户界面和游戏开发</title>
-    <link href="https://www.1937cn.top/posts/150dda0a.html"/>
-    <id>https://www.1937cn.top/posts/150dda0a.html</id>
+    <link href="http://www.1937cnt.top/posts/150dda0a.html"/>
+    <id>http://www.1937cnt.top/posts/150dda0a.html</id>
     <published>2023-05-18T01:25:44.782Z</published>
     <updated>2023-05-18T01:25:46.720Z</updated>
     
@@ -112,17 +112,17 @@
     
     
     
-    <category term="python" scheme="https://www.1937cn.top/categories/python/"/>
+    <category term="python" scheme="http://www.1937cnt.top/categories/python/"/>
     
     
-    <category term="python" scheme="https://www.1937cn.top/tags/python/"/>
+    <category term="python" scheme="http://www.1937cnt.top/tags/python/"/>
     
   </entry>
   
   <entry>
     <title>09.面向对象进阶</title>
-    <link href="https://www.1937cn.top/posts/79a7583d.html"/>
-    <id>https://www.1937cn.top/posts/79a7583d.html</id>
+    <link href="http://www.1937cnt.top/posts/79a7583d.html"/>
+    <id>http://www.1937cnt.top/posts/79a7583d.html</id>
     <published>2023-05-18T01:25:44.775Z</published>
     <updated>2023-05-18T01:25:46.718Z</updated>
     
@@ -138,17 +138,17 @@
     
     
     
-    <category term="python" scheme="https://www.1937cn.top/categories/python/"/>
+    <category term="python" scheme="http://www.1937cnt.top/categories/python/"/>
     
     
-    <category term="python" scheme="https://www.1937cn.top/tags/python/"/>
+    <category term="python" scheme="http://www.1937cnt.top/tags/python/"/>
     
   </entry>
   
   <entry>
     <title>08.面向对象编程基础</title>
-    <link href="https://www.1937cn.top/posts/66ee8730.html"/>
-    <id>https://www.1937cn.top/posts/66ee8730.html</id>
+    <link href="http://www.1937cnt.top/posts/66ee8730.html"/>
+    <id>http://www.1937cnt.top/posts/66ee8730.html</id>
     <published>2023-05-18T01:25:44.771Z</published>
     <updated>2023-05-18T01:25:46.722Z</updated>
     
@@ -164,17 +164,17 @@
     
     
     
-    <category term="python" scheme="https://www.1937cn.top/categories/python/"/>
+    <category term="python" scheme="http://www.1937cnt.top/categories/python/"/>
     
     
-    <category term="python" scheme="https://www.1937cn.top/tags/python/"/>
+    <category term="python" scheme="http://www.1937cnt.top/tags/python/"/>
     
   </entry>
   
   <entry>
     <title>07.字符串和常用数据结构</title>
-    <link href="https://www.1937cn.top/posts/fef17b79.html"/>
-    <id>https://www.1937cn.top/posts/fef17b79.html</id>
+    <link href="http://www.1937cnt.top/posts/fef17b79.html"/>
+    <id>http://www.1937cnt.top/posts/fef17b79.html</id>
     <published>2023-05-18T01:25:44.766Z</published>
     <updated>2023-05-18T01:25:46.716Z</updated>
     
@@ -190,17 +190,17 @@
     
     
     
-    <category term="python" scheme="https://www.1937cn.top/categories/python/"/>
+    <category term="python" scheme="http://www.1937cnt.top/categories/python/"/>
     
     
-    <category term="python" scheme="https://www.1937cn.top/tags/python/"/>
+    <category term="python" scheme="http://www.1937cnt.top/tags/python/"/>
     
   </entry>
   
   <entry>
     <title>0.6函数和模块使用</title>
-    <link href="https://www.1937cn.top/posts/e751b946.html"/>
-    <id>https://www.1937cn.top/posts/e751b946.html</id>
+    <link href="http://www.1937cnt.top/posts/e751b946.html"/>
+    <id>http://www.1937cnt.top/posts/e751b946.html</id>
     <published>2023-05-18T01:25:44.760Z</published>
     <updated>2023-05-18T01:25:46.714Z</updated>
     
@@ -216,17 +216,17 @@
     
     
     
-    <category term="python" scheme="https://www.1937cn.top/categories/python/"/>
+    <category term="python" scheme="http://www.1937cnt.top/categories/python/"/>
     
     
-    <category term="python" scheme="https://www.1937cn.top/tags/python/"/>
+    <category term="python" scheme="http://www.1937cnt.top/tags/python/"/>
     
   </entry>
   
   <entry>
     <title>05.构造程序逻辑</title>
-    <link href="https://www.1937cn.top/posts/7da46ec.html"/>
-    <id>https://www.1937cn.top/posts/7da46ec.html</id>
+    <link href="http://www.1937cnt.top/posts/7da46ec.html"/>
+    <id>http://www.1937cnt.top/posts/7da46ec.html</id>
     <published>2023-05-18T01:25:44.755Z</published>
     <updated>2023-05-18T01:25:46.707Z</updated>
     
@@ -242,17 +242,17 @@
     
     
     
-    <category term="python" scheme="https://www.1937cn.top/categories/python/"/>
+    <category term="python" scheme="http://www.1937cnt.top/categories/python/"/>
     
     
-    <category term="python" scheme="https://www.1937cn.top/tags/python/"/>
+    <category term="python" scheme="http://www.1937cnt.top/tags/python/"/>
     
   </entry>
   
   <entry>
     <title>04.循环结构</title>
-    <link href="https://www.1937cn.top/posts/41f95d3e.html"/>
-    <id>https://www.1937cn.top/posts/41f95d3e.html</id>
+    <link href="http://www.1937cnt.top/posts/41f95d3e.html"/>
+    <id>http://www.1937cnt.top/posts/41f95d3e.html</id>
     <published>2023-05-18T01:25:44.748Z</published>
     <updated>2023-05-18T01:25:46.705Z</updated>
     
@@ -268,17 +268,17 @@
     
     
     
-    <category term="python" scheme="https://www.1937cn.top/categories/python/"/>
+    <category term="python" scheme="http://www.1937cnt.top/categories/python/"/>
     
     
-    <category term="python" scheme="https://www.1937cn.top/tags/python/"/>
+    <category term="python" scheme="http://www.1937cnt.top/tags/python/"/>
     
   </entry>
   
   <entry>
     <title>03.分支结构</title>
-    <link href="https://www.1937cn.top/posts/4b8aac5f.html"/>
-    <id>https://www.1937cn.top/posts/4b8aac5f.html</id>
+    <link href="http://www.1937cnt.top/posts/4b8aac5f.html"/>
+    <id>http://www.1937cnt.top/posts/4b8aac5f.html</id>
     <published>2023-05-18T01:25:44.742Z</published>
     <updated>2023-05-18T01:25:46.712Z</updated>
     
@@ -294,17 +294,17 @@
     
     
     
-    <category term="python" scheme="https://www.1937cn.top/categories/python/"/>
+    <category term="python" scheme="http://www.1937cnt.top/categories/python/"/>
     
     
-    <category term="python" scheme="https://www.1937cn.top/tags/python/"/>
+    <category term="python" scheme="http://www.1937cnt.top/tags/python/"/>
     
   </entry>
   
   <entry>
     <title>02.语言元素</title>
-    <link href="https://www.1937cn.top/posts/220f48dc.html"/>
-    <id>https://www.1937cn.top/posts/220f48dc.html</id>
+    <link href="http://www.1937cnt.top/posts/220f48dc.html"/>
+    <id>http://www.1937cnt.top/posts/220f48dc.html</id>
     <published>2023-05-18T01:25:44.736Z</published>
     <updated>2023-05-18T01:25:46.703Z</updated>
     
@@ -320,17 +320,17 @@
     
     
     
-    <category term="python" scheme="https://www.1937cn.top/categories/python/"/>
+    <category term="python" scheme="http://www.1937cnt.top/categories/python/"/>
     
     
-    <category term="python" scheme="https://www.1937cn.top/tags/python/"/>
+    <category term="python" scheme="http://www.1937cnt.top/tags/python/"/>
     
   </entry>
   
   <entry>
     <title>01初识python</title>
-    <link href="https://www.1937cn.top/posts/8590baa2.html"/>
-    <id>https://www.1937cn.top/posts/8590baa2.html</id>
+    <link href="http://www.1937cnt.top/posts/8590baa2.html"/>
+    <id>http://www.1937cnt.top/posts/8590baa2.html</id>
     <published>2023-05-18T01:25:44.730Z</published>
     <updated>2023-05-18T01:25:46.699Z</updated>
     
@@ -348,17 +348,17 @@
     
     
     
-    <category term="python" scheme="https://www.1937cn.top/categories/python/"/>
+    <category term="python" scheme="http://www.1937cnt.top/categories/python/"/>
     
     
-    <category term="python" scheme="https://www.1937cn.top/tags/python/"/>
+    <category term="python" scheme="http://www.1937cnt.top/tags/python/"/>
     
   </entry>
   
   <entry>
     <title>Markdown语法与外挂标签写法汇总</title>
-    <link href="https://www.1937cn.top/posts/2013454d.html"/>
-    <id>https://www.1937cn.top/posts/2013454d.html</id>
+    <link href="http://www.1937cnt.top/posts/2013454d.html"/>
+    <id>http://www.1937cnt.top/posts/2013454d.html</id>
     <published>2022-08-09T10:19:03.000Z</published>
     <updated>2022-10-23T14:00:00.000Z</updated>
     
@@ -369,19 +369,19 @@
     
     
     
-    <category term="演示" scheme="https://www.1937cn.top/categories/%E6%BC%94%E7%A4%BA/"/>
+    <category term="演示" scheme="http://www.1937cnt.top/categories/%E6%BC%94%E7%A4%BA/"/>
     
     
-    <category term="Markdown" scheme="https://www.1937cn.top/tags/Markdown/"/>
+    <category term="Markdown" scheme="http://www.1937cnt.top/tags/Markdown/"/>
     
-    <category term="外挂标签" scheme="https://www.1937cn.top/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
+    <category term="外挂标签" scheme="http://www.1937cnt.top/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
     
   </entry>
   
   <entry>
     <title>网络安全书籍推荐</title>
-    <link href="https://www.1937cn.top/posts/e6a36945.html"/>
-    <id>https://www.1937cn.top/posts/e6a36945.html</id>
+    <link href="http://www.1937cnt.top/posts/e6a36945.html"/>
+    <id>http://www.1937cnt.top/posts/e6a36945.html</id>
     <published>2022-06-12T11:32:39.000Z</published>
     <updated>2023-05-18T01:25:46.732Z</updated>
     
@@ -411,8 +411,8 @@
   
   <entry>
     <title>Cobalt Strike 4.4官方汉化版</title>
-    <link href="https://www.1937cn.top/posts/2ded63b2.html"/>
-    <id>https://www.1937cn.top/posts/2ded63b2.html</id>
+    <link href="http://www.1937cnt.top/posts/2ded63b2.html"/>
+    <id>http://www.1937cnt.top/posts/2ded63b2.html</id>
     <published>2022-03-31T12:09:39.000Z</published>
     <updated>2023-05-18T01:25:46.729Z</updated>
     
@@ -428,14 +428,14 @@
     
     
     
-    <category term="工具" scheme="https://www.1937cn.top/tags/%E5%B7%A5%E5%85%B7/"/>
+    <category term="工具" scheme="http://www.1937cnt.top/tags/%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
   <entry>
     <title>中华人民共和国网络安全法</title>
-    <link href="https://www.1937cn.top/posts/b81fa239.html"/>
-    <id>https://www.1937cn.top/posts/b81fa239.html</id>
+    <link href="http://www.1937cnt.top/posts/b81fa239.html"/>
+    <id>http://www.1937cnt.top/posts/b81fa239.html</id>
     <published>2022-03-27T08:31:56.000Z</published>
     <updated>2023-05-18T01:25:46.735Z</updated>
     
@@ -451,10 +451,10 @@
     
     
     
-    <category term="安全法" scheme="https://www.1937cn.top/categories/%E5%AE%89%E5%85%A8%E6%B3%95/"/>
+    <category term="安全法" scheme="http://www.1937cnt.top/categories/%E5%AE%89%E5%85%A8%E6%B3%95/"/>
     
     
-    <category term="安全法" scheme="https://www.1937cn.top/tags/%E5%AE%89%E5%85%A8%E6%B3%95/"/>
+    <category term="安全法" scheme="http://www.1937cnt.top/tags/%E5%AE%89%E5%85%A8%E6%B3%95/"/>
     
   </entry>
   
